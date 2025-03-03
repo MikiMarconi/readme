@@ -1,10 +1,10 @@
-# 👋 Hi, I'm [Michelangelo Marconi]!
+# 👋 Hi, I'm Michelangelo Marconi!
 
 ![Profile GIF](URL_to_your_profile_gif)
 
 ## 🚀 About Me
 
-I'm [Michelangelo Marconi], a passionate developer from [Italy]. I thrive on creating innovative solutions and continually expanding my knowledge. Beyond coding.
+I'm Michelangelo Marconi, a passionate developer from Italy. I thrive on creating innovative solutions and continually expanding my knowledge. Beyond coding.
 
 ## 🌐 Social Media
 
@@ -28,5 +28,5 @@ I'm [Michelangelo Marconi], a passionate developer from [Italy]. I thrive on cre
 
 Feel free to reach out for collaborations or just a friendly chat!
 
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: [mikimarconi2001@gmail.com](mailto:mikimarconi2001@gmail.com)
+- **LinkedIn**: [linkedin.com/MichelangeloMarconi](https://www.linkedin.com/in/michelangelo-marconi-9128942bb/)
