@@ -21,53 +21,63 @@ Beyond technical proficiency, I’m deeply committed to continuous learning 📚
 
 ## 🔧 Technologies & Tools
 
+### 🖥️ Programming Languages
 <p align="center">
     <a href="https://isocpp.org/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/c++%20(2).png?raw=true" width="65" title="C++">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/c++%20(2).png?raw=true" width="65" title="C++" style="margin: 10px;">
     </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/c.png?raw=true" width="65" title="C">
-    </a>
-    <a href="https://www.eclipse.org/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/eclipse.png?raw=true" width="65" title="Eclipse">
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/git.png?raw=true" width="65" title="Git">
-    </a>
-    <a href="https://www.huawei.com/en/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/huawei.png?raw=true" width="65" title="Huawei">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/c.png?raw=true" width="65" title="C" style="margin: 10px;">
     </a>
     <a href="https://www.java.com/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/java.png?raw=true" width="65" title="Java">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/java.png?raw=true" width="65" title="Java" style="margin: 10px;">
     </a>
     <a href="https://www.javascript.com/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/javascript.png?raw=true" width="65" title="JavaScript">
-    </a>
-    <a href="https://laravel.com/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/laravel.png?raw=true" width="65" title="Laravel">
-    </a>
-    <a href="https://www.linux.org/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/linux.png?raw=true" width="65" title="Linux">
-    </a>
-    <a href="https://www.mysql.com/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/mysql.png?raw=true" width="65" title="MySQL">
-    </a>
-    <a href="https://nodejs.org/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/nodejs.png?raw=true" width="65" title="Node.js">
-    </a>
-    <a href="https://www.postman.com/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/postman.png?raw=true" width="65" title="Postman">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/javascript.png?raw=true" width="65" title="JavaScript" style="margin: 10px;">
     </a>
     <a href="https://www.python.org/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/python.png?raw=true" width="65" title="Python">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Virtual_private_network">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/vpn.png?raw=true" width="65" title="VPN">
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/vscode.png?raw=true" width="65" title="VSCode">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/python.png?raw=true" width="65" title="Python" style="margin: 10px;">
     </a>
 </p>
+
+### 🛠️ Frameworks & Libraries
+<p align="center">
+    <a href="https://nodejs.org/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/nodejs.png?raw=true" width="65" title="Node.js" style="margin: 10px;">
+    </a>
+    <a href="https://laravel.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/laravel.png?raw=true" width="65" title="Laravel" style="margin: 10px;">
+    </a>
+</p>
+
+### ⚙️ Tools & Other Technologies
+<p align="center">
+    <a href="https://git-scm.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/git.png?raw=true" width="65" title="Git" style="margin: 10px;">
+    </a>
+    <a href="https://www.eclipse.org/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/eclipse.png?raw=true" width="65" title="Eclipse" style="margin: 10px;">
+    </a>
+    <a href="https://www.mysql.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/mysql.png?raw=true" width="65" title="MySQL" style="margin: 10px;">
+    </a>
+    <a href="https://www.postman.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/postman.png?raw=true" width="65" title="Postman" style="margin: 10px;">
+    </a>
+    <a href="https://www.linux.org/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/linux.png?raw=true" width="65" title="Linux" style="margin: 10px;">
+    </a>
+    <a href="https://www.huawei.com/en/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/huawei.png?raw=true" width="65" title="Huawei" style="margin: 10px;">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Virtual_private_network">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/vpn.png?raw=true" width="65" title="VPN" style="margin: 10px;">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/vscode.png?raw=true" width="65" title="VSCode" style="margin: 10px;">
+    </a>
+</p>
+
 
 ## 📈 GitHub Stats
 
