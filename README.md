@@ -64,6 +64,13 @@ Beyond technical proficiency, I’m deeply committed to continuous learning 📚
     <a href="https://www.postman.com/">
         <img src="https://github.com/MikiMarconi/readme/blob/main/postman.png?raw=true" width="65" title="Postman">
     </a> &nbsp;&nbsp;
+    <a href="https://code.visualstudio.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/vscode.png?raw=true" width="65" title="VSCode">
+    </a>
+</p>
+
+### 🛜 Networking
+<p align="center">
     <a href="https://www.linux.org/">
         <img src="https://github.com/MikiMarconi/readme/blob/main/linux.png?raw=true" width="65" title="Linux">
     </a> &nbsp;&nbsp;
@@ -73,11 +80,7 @@ Beyond technical proficiency, I’m deeply committed to continuous learning 📚
     <a href="https://en.wikipedia.org/wiki/Virtual_private_network">
         <img src="https://github.com/MikiMarconi/readme/blob/main/vpn.png?raw=true" width="65" title="VPN">
     </a> &nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/vscode.png?raw=true" width="65" title="VSCode">
-    </a>
-</p>
-
+</p> 
 
 ## 📈 GitHub Stats
 
