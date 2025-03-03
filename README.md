@@ -4,17 +4,15 @@
 
 ## 🚀 About Me
 
-I possess a solid foundation in programming and a comprehensive understanding of various frameworks and technologies. Throughout my academic path, I have gained practical experience in developing and optimizing software solutions, as well as working with network infrastructures.
+I'm a passionate Computer Engineer with a strong foundation in programming 💻 and an ever-growing expertise in various technologies and frameworks ⚙️. My academic journey 🎓 has not only deepened my understanding of software development, but has also given me hands-on experience in optimizing software solutions and building robust network infrastructures 🌐.
 
-While I have yet to gain formal work experience outside of internships at IT companies, I have actively contributed to several challenging projects that have significantly developed both my technical abilities and interpersonal skills. One of the most notable experiences in my journey was my involvement in the Huawei ICT Academy, where I had the privilege to compete in:
+Though my formal work experience is still in its early stages (thanks to internships in the IT sector), I’ve been actively involved in challenging projects that have allowed me to sharpen both my technical and soft skills 💡. A milestone in my journey was my participation in the Huawei ICT Academy, where I had the privilege of competing in:
 
-2nd place in the Huawei ICT European Competition with my team
+2nd place in the Huawei ICT European Competition 🏆 with my team, showcasing excellence in network infrastructure design and device programming.
+2nd place in the Huawei ICT Global Final in China 🌏 with my team, demonstrating top-tier problem-solving and collaboration skills on an international stage.
+These experiences pushed me to thrive in high-pressure environments 🔥, and gave me the chance to enhance my abilities in teamwork 🤝, leadership 👨‍💻, and cross-cultural communication 🌍.
 
-2nd place in the Huawei ICT Global Final in China with my team
-
-These competitions focused on network infrastructure development and network device programming, allowing me to work in an international, high-pressure environment. This experience sharpened my problem-solving, teamwork, and communication skills.
-
-Beyond my technical expertise, I am committed to collaboration, adaptability, and lifelong learning—values I consider essential for success in the IT field. I am always eager to take on new challenges and expand my knowledge while contributing to innovative projects.
+Beyond technical proficiency, I’m deeply committed to continuous learning 📚, collaboration 🧑‍🤝‍🧑, and innovation 💡—qualities I believe are essential for success in the ever-evolving world of IT. I’m always eager to take on new challenges 🚀, expand my skill set 🛠️, and contribute to projects that make a real difference 🌟.
 
 ## 🌐 Social Media
 
