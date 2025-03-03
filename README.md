@@ -23,12 +23,14 @@ Beyond my technical expertise, I am committed to collaboration, adaptability, an
 
 ## 🔧 Technologies & Tools
 
+## 🔧 Technologies & Tools
+
 - **Languages**:
-  [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&background=black)](https://www.python.org/)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&background=black)](https://www.javascript.com/)
-  [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&background=black)](https://www.oracle.com/java/)
-  [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&background=black)](https://isocpp.org/)
-  [![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&background=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+  [![Python](https://github.com/your-username/your-repository-name/blob/main/images/python-logo.png)](https://www.python.org/)
+  [![JavaScript](https://github.com/your-username/your-repository-name/blob/main/images/javascript-logo.png)](https://www.javascript.com/)
+  [![Java](https://github.com/your-username/your-repository-name/blob/main/images/java-logo.png)](https://www.oracle.com/java/)
+  [![C++](https://github.com/your-username/your-repository-name/blob/main/images/cplusplus-logo.png)](https://isocpp.org/)
+  [![C](https://github.com/your-username/your-repository-name/blob/main/images/c-logo.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 - **Frameworks**:
   [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&background=black)](https://nodejs.org/)
