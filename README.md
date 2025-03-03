@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Michelangelo Marconi!
 
-<center>
-  ![Profile GIF](https://github.com/MikiMarconi/readme/blob/main/Simpsons.gif?raw=true)
-</center>
+<p align="center">
+  <img src="https://github.com/MikiMarconi/readme/blob/main/Simpsons.gif?raw=true" />
+</p>
+
 
 ## 🚀 About Me
 
