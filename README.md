@@ -8,8 +8,8 @@ I'm [Michelangelo Marconi], a passionate developer from [Italy]. I thrive on cre
 
 ## 🌐 Social Media
 
-- **LinkedIn**: [linkedin.com/in/yourprofile]([linkedin.com/in/yourprofile](https://www.linkedin.com/in/michelangelo-marconi-9128942bb/))
-- **Instagram**: [twitter.com/yourhandle]((https://www.instagram.com/pg_markk/))
+- **LinkedIn**: [linkedin.com/MichelangeloMarconi](https://www.linkedin.com/in/michelangelo-marconi-9128942bb/)
+- **Instagram**: [instagram.com/pg_markk](https://www.instagram.com/pg_markk/)
 
 ## 🔧 Technologies & Tools
 
