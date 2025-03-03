@@ -21,8 +21,9 @@ Beyond technical proficiency, I’m deeply committed to continuous learning 📚
 
 ## 🔧 Technologies & Tools
 
-
-![C++](https://github.com/MikiMarconi/readme/blob/main/c++%20(2).png?raw=true)
+<a href="https://www.python.org">
+    <img src="https://github.com/MikiMarconi/readme/blob/main/c++%20(2).png?raw=true" width="50">
+</a>
 
 - **Languages**:
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&background=black)](https://www.python.org/)
