@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Michelangelo Marconi!
 
-![Profile GIF](https://github.com/MikiMarconi/readme/blob/main/Simpsons.gif?raw=true)
+<center>
+  ![Profile GIF](https://github.com/MikiMarconi/readme/blob/main/Simpsons.gif?raw=true)
+</center>
 
 ## 🚀 About Me
 
@@ -90,9 +92,9 @@ Beyond technical proficiency, I’m deeply committed to continuous learning 📚
 
 ## 📈 GitHub Stats
 
+<center>
 ![MikiMarconi's Contributions](https://github-readme-stats.vercel.app/api?username=MikiMarconi&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-
+</center>
 
 ## 🏆 Achievements
 
