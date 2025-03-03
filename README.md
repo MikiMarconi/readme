@@ -11,6 +11,7 @@ I am a passionate computer engineer with strong skills in software development a
 Although I haven’t had formal work experience outside of internships in IT companies, I have actively participated in challenging projects that enhanced both my technical and soft skills. One of the most significant experiences in my career was my participation in the Huawei ICT Academy, where I had the opportunity to compete in:
 
 Huawei ICT European Competition – 2nd place with my team
+
 Huawei ICT Global Final in China – 2nd place with my team
 
 The competition focused on network infrastructure development based on specific requirements, as well as network device programming. This experience allowed me to work in a high-pressure, international environment, further improving my problem-solving, teamwork, and communication skills.
