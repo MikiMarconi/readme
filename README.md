@@ -9,7 +9,9 @@ I possess a solid foundation in programming and a comprehensive understanding of
 While I have yet to gain formal work experience outside of internships at IT companies, I have actively contributed to several challenging projects that have significantly developed both my technical abilities and interpersonal skills. One of the most notable experiences in my journey was my involvement in the Huawei ICT Academy, where I had the privilege to compete in:
 
 2nd place in the Huawei ICT European Competition with my team
+
 2nd place in the Huawei ICT Global Final in China with my team
+
 These competitions focused on network infrastructure development and network device programming, allowing me to work in an international, high-pressure environment. This experience sharpened my problem-solving, teamwork, and communication skills.
 
 Beyond my technical expertise, I am committed to collaboration, adaptability, and lifelong learning—values I consider essential for success in the IT field. I am always eager to take on new challenges and expand my knowledge while contributing to innovative projects.
