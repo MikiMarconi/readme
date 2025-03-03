@@ -84,6 +84,7 @@ Beyond technical proficiency, I’m deeply committed to continuous learning 📚
 ![MikiMarconi's Contributions](https://github-readme-stats.vercel.app/api?username=MikiMarconi&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 
+
 ## 🏆 Achievements
 
 - **Huawei ICT European Competition**: 2nd place with my team for excellence in network infrastructure and device programming.
