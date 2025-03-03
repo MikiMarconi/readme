@@ -21,34 +21,53 @@ Beyond technical proficiency, I’m deeply committed to continuous learning 📚
 
 ## 🔧 Technologies & Tools
 
-<a href="https://www.python.org">
-    <img src="https://github.com/MikiMarconi/readme/blob/main/c++%20(2).png?raw=true" width="50">
-</a>
-
-- **Languages**:
-  [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&background=black)](https://www.python.org/)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&background=black)](https://www.javascript.com/)
-  [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&background=black)](https://www.oracle.com/java/)
-  [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&background=black)](https://isocpp.org/)
-  [![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&background=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-- **Frameworks**:
-  [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&background=black)](https://nodejs.org/)
-  [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&background=black)](https://laravel.com/)
-
-- **Databases**:
-  [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&background=black)](https://www.mysql.com/)
-
-- **Tools**:
-  [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&background=black)](https://git-scm.com/)
-  [![VSCode](https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white&background=black)](https://code.visualstudio.com/)
-  [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&background=black)](https://www.postman.com/)
-  [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&background=black)](https://www.eclipse.org/)
-
-- **Networking**:
-  [![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000000?style=for-the-badge&logo=linux&logoColor=white&background=black)](https://en.wikipedia.org/wiki/TCP/IP)
-  [![VPN](https://img.shields.io/badge/-VPN-000000?style=for-the-badge&logo=openvpn&logoColor=white&background=black)](https://en.wikipedia.org/wiki/Virtual_private_network)
-  [![Huawei Routers](https://img.shields.io/badge/-Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white&background=black)](https://support.huawei.com/)
+<p align="center">
+    <a href="https://isocpp.org/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/c++%20(2).png?raw=true" width="65" title="C++">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/c.png?raw=true" width="65" title="C">
+    </a>
+    <a href="https://www.eclipse.org/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/eclipse.png?raw=true" width="65" title="Eclipse">
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/git.png?raw=true" width="65" title="Git">
+    </a>
+    <a href="https://www.huawei.com/en/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/huawei.png?raw=true" width="65" title="Huawei">
+    </a>
+    <a href="https://www.java.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/java.png?raw=true" width="65" title="Java">
+    </a>
+    <a href="https://www.javascript.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/javascript.png?raw=true" width="65" title="JavaScript">
+    </a>
+    <a href="https://laravel.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/laravel.png?raw=true" width="65" title="Laravel">
+    </a>
+    <a href="https://www.linux.org/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/linux.png?raw=true" width="65" title="Linux">
+    </a>
+    <a href="https://www.mysql.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/mysql.png?raw=true" width="65" title="MySQL">
+    </a>
+    <a href="https://nodejs.org/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/nodejs.png?raw=true" width="65" title="Node.js">
+    </a>
+    <a href="https://www.postman.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/postman.png?raw=true" width="65" title="Postman">
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/python.png?raw=true" width="65" title="Python">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Virtual_private_network">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/vpn.png?raw=true" width="65" title="VPN">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/vscode.png?raw=true" width="65" title="VSCode">
+    </a>
+</p>
 
 ## 📈 GitHub Stats
 
