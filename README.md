@@ -23,8 +23,6 @@ Beyond my technical expertise, I am committed to collaboration, adaptability, an
 
 ## 🔧 Technologies & Tools
 
-## 🔧 Technologies & Tools
-
 - **Languages**:
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&background=black)](https://www.python.org/)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&background=black)](https://www.javascript.com/)
@@ -52,12 +50,19 @@ Beyond my technical expertise, I am committed to collaboration, adaptability, an
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](URL_to_your_github_stats_image)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 🏆 Achievements
 
-- **Achievement 1**: Description
-- **Achievement 2**: Description
+- **Huawei ICT European Competition**: 2nd place with my team for excellence in network infrastructure and device programming.
+- **Huawei ICT Global Final in China**: 2nd place with my team, demonstrating high-level problem-solving and collaboration skills.
+- **HCIA Huawei Network Certification**: Completed certification in network configuration and troubleshooting.
+- **Bachelor's Degree in Computer Engineering and Automation**: Graduated from Politecnico delle Marche with a solid foundation in computer science, network systems, and automation technologies.
+
+## ⏳ Work in Progress
+
+- **Master's Degree in Computer Engineering**: Currently pursuing my Master's degree in Computer Engineering at Politecnico di Torino.
+- **Top Secret**: Stay tuned for something exciting... 🔒
 
 ## 📫 Contact Me
 
