@@ -81,7 +81,8 @@ Beyond technical proficiency, I’m deeply committed to continuous learning 📚
 
 ## 📈 GitHub Stats
 
-[![MikiMarconi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MikiMarconi&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MikiMarconi&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🏆 Achievements
 
