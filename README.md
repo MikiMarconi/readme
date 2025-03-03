@@ -4,7 +4,18 @@
 
 ## 🚀 About Me
 
-I'm Michelangelo Marconi, a passionate developer from Italy. I thrive on creating innovative solutions and continually expanding my knowledge. Beyond coding.
+Computer Engineer | Software Development | Networking & ICT Enthusiast
+
+I am a passionate computer engineer with strong skills in software development and a deep understanding of various programming languages and frameworks. Throughout my academic journey, I have gained hands-on experience in developing and optimizing software solutions, as well as working with network infrastructures.
+
+Although I haven’t had formal work experience outside of internships in IT companies, I have actively participated in challenging projects that enhanced both my technical and soft skills. One of the most significant experiences in my career was my participation in the Huawei ICT Academy, where I had the opportunity to compete in:
+
+Huawei ICT European Competition – 2nd place with my team
+Huawei ICT Global Final in China – 2nd place with my team
+
+The competition focused on network infrastructure development based on specific requirements, as well as network device programming. This experience allowed me to work in a high-pressure, international environment, further improving my problem-solving, teamwork, and communication skills.
+
+Beyond my technical expertise, I value collaboration, adaptability, and continuous learning, which I believe are essential for success in the IT industry. I am always looking for new challenges and opportunities to expand my knowledge and contribute to innovative projects.
 
 ## 🌐 Social Media
 
