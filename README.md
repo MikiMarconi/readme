@@ -1,16 +1,15 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Michelangelo Marconi]!
 
 ![Profile GIF](URL_to_your_profile_gif)
 
 ## 🚀 About Me
 
-I'm [Your Name], a passionate developer from [Your Location]. I thrive on creating innovative solutions and continually expanding my knowledge. Beyond coding, I enjoy [mention any hobbies or interests].
+I'm [Michelangelo Marconi], a passionate developer from [Italy]. I thrive on creating innovative solutions and continually expanding my knowledge. Beyond coding.
 
 ## 🌐 Social Media
 
-- **Website**: [yourwebsite.com](https://yourwebsite.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [twitter.com/yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn**: [linkedin.com/in/yourprofile]((https://www.linkedin.com/in/michelangelo-marconi-9128942bb/))
+- **Instagram**: [twitter.com/yourhandle]((https://www.instagram.com/pg_markk/))
 
 ## 🔧 Technologies & Tools
 
