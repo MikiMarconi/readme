@@ -38,6 +38,12 @@ Beyond technical proficiency, I’m deeply committed to continuous learning 📚
     <a href="https://www.python.org/">
         <img src="https://github.com/MikiMarconi/readme/blob/main/python.png?raw=true" width="65" title="Python">
     </a>
+    <a href="https://dart.dev/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/dart.png?raw=true" width="65" title="Dart">
+    </a> &nbsp;&nbsp;
+    <a href="https://flutter.dev/">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/flutter.png?raw=true" width="65" title="Flutter">
+    </a> &nbsp;&nbsp;
 </p>
 
 ### 🛠️ Frameworks & Libraries
